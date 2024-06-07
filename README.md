@@ -1,5 +1,6 @@
 # Credit-Card-Transactions-and-Customer-Report
 # Delving into Credit Card Trends and Customer Behavior
+## [Click here](https://project.novypro.com/shb7xO) to view the live dashboard.
 ![Slide1](https://github.com/abhishek-stcet/Credit-Card-Transactions-and-Customer-Report/assets/160778673/944dc4ee-24f4-4b61-892a-1539fada0ed7)
 ![Slide2](https://github.com/abhishek-stcet/Credit-Card-Transactions-and-Customer-Report/assets/160778673/36c3f6cc-7da7-4cd0-a6ac-134e3890ef01)
 ![Slide3](https://github.com/abhishek-stcet/Credit-Card-Transactions-and-Customer-Report/assets/160778673/8eaad1e8-e45c-4707-8409-50b7a1d8e807)
